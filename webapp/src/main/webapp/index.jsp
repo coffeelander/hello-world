@@ -30,8 +30,6 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-  <div class="container">
-    <h2>This is just an exercise to test our ability </h2>
 
    <h1> Thankyou, Happy Learning </h1>
 
